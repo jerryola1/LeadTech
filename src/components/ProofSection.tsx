@@ -4,7 +4,7 @@ export default function ProofSection() {
   return (
     <section className="py-20 bg-gray-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-12">
+        <h2 className="text-4xl md:text-5xl font-bold text-center mb-12 text-indigo-900">
           DON&apos;T TAKE OUR WORD FOR IT
         </h2>
         <p className="text-xl text-center mb-12 text-indigo-600">

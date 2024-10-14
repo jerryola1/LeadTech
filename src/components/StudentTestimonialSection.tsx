@@ -11,7 +11,7 @@ const StudentTestimonialSection: React.FC<StudentTestimonialSectionProps> = ({ o
   return (
     <section className="py-20 bg-gray-100 relative">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-12">
+        <h2 className="text-4xl md:text-5xl font-bold text-center mb-12 text-indigo-700">
           WORD FROM OUR <span className="text-red-600">STUDENT</span>
         </h2>
         <div className="flex flex-col md:flex-row justify-center items-center gap-8">

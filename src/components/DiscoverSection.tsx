@@ -23,7 +23,7 @@ export default function DiscoverSection({ openPopup }: DiscoverSectionProps) {
   return (
     <section className="py-10 md:py-20 bg-purple-100">
       <div className="container mx-auto px-4 text-center">
-        <h2 className="text-3xl md:text-heading-2 font-bold mb-8 md:mb-12">
+        <h2 className="text-3xl md:text-heading-2 font-bold mb-8 md:mb-12 text-indigo-700">
           When You Join, <span className="text-red-600">You&apos;ll Discover:</span>
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 max-w-4xl mx-auto">

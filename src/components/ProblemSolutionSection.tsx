@@ -7,7 +7,7 @@ export default function ProblemSolutionSection() {
           It&apos;s Time to Discover What You&apos;ve Been Missing...
         </h2>
         
-        <div className="space-y-4 md:space-y-6 text-center max-w-4xl mx-auto">
+        <div className="space-y-4 md:space-y-6 text-center max-w-4xl mx-auto text-indigo-600">
           <p className="text-base md:text-lg">
             Traditional <span className="font-bold text-indigo-700">AdSense optimization techniques</span> often lead to disappointing results. You&apos;ve probably spent countless hours tweaking layouts and keywords, only to see minimal improvements in your earnings.
           </p>
