@@ -21,13 +21,7 @@ body {
 }
 
 .text-default {
-  color: #1f2937; /* Equivalent to text-gray-800 */
-}
-
-@media (prefers-color-scheme: dark) {
-  .text-default {
-    color: #e5e7eb; /* Equivalent to text-gray-200 */
-  }
+  @apply text-gray-800 dark:text-gray-200;
 }
 
 @layer utilities {
