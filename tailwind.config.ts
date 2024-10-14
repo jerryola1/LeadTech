@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['Inter', 'Arial', 'sans-serif'],
       },
       fontSize: {
         'heading-1': ['2.5rem', { lineHeight: '1.2', fontWeight: '700' }],
