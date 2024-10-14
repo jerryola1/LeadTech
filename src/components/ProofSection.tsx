@@ -7,7 +7,7 @@ export default function ProofSection() {
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-12">
           DON&apos;T TAKE OUR WORD FOR IT
         </h2>
-        <p className="text-xl text-center mb-12 text-default">
+        <p className="text-xl text-center mb-12 text-indigo-600">
           And yes, this has nothing to do with task website.. or any of those bot, proxy or self-clicking fraud. So it&apos;s entirely legit. 110%.
         </p>
         <p className="text-xl text-center mb-12">
